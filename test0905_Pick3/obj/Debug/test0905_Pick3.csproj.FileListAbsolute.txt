@@ -1,0 +1,10 @@
+D:\lab\test0905_Pick3\test0905_Pick3\bin\Debug\test0905_Pick3.exe.config
+D:\lab\test0905_Pick3\test0905_Pick3\bin\Debug\test0905_Pick3.exe
+D:\lab\test0905_Pick3\test0905_Pick3\bin\Debug\test0905_Pick3.pdb
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.csprojResolveAssemblyReference.cache
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.Form1.resources
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.Properties.Resources.resources
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.csproj.GenerateResource.Cache
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.exe
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.pdb
+D:\lab\test0905_Pick3\test0905_Pick3\obj\Debug\test0905_Pick3.Form2.resources
